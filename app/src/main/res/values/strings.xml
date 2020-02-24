@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intentapp</string>
+    <string name="title">We will use explicit intents to move from one screen to another. we will also pass data through too.</string>
+    <string name="name_text"></string>
+    <string name="submit_name">Submit your name</string>
+    <string name="insert_name">insert your name</string>
+    <string name="typed_title">Your Name Is</string>
+</resources>
